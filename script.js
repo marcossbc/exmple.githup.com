@@ -1,5 +1,7 @@
-const   (name) {
-    console.log(name)
-    
-}
+let student = [
+    {
+        name: "axmed",
+        age : 90,
+    }
 
+]
