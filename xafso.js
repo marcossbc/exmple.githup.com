@@ -1,3 +1,3 @@
-let  = function () {
-    console.log()
+let  = function (age) {
+    console.log("hellow ")
 }
