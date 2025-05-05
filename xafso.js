@@ -1,1 +1,3 @@
-let 
+let  = function () {
+    console.log()
+}
