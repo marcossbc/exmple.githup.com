@@ -39,7 +39,7 @@ Provide a brief overview of your project, including its purpose and main feature
 - Member 1
 - Member 2
 - Member 3
-- Member 4
+
 
 ## Project Structure
 
